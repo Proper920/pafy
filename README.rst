@@ -13,6 +13,11 @@
     :target: http://pythonwheels.com/
     :alt: Wheel Status
 
+*This is an unofficial version*
+--------
+Fixed dislike count error.
+*Visit https://github.com/mps-youtube/pafy* for official version
+
 Features
 --------
 
